@@ -1,0 +1,11 @@
+C:\Code\Chapter1\WelcomeDotNetCore\bin\Debug\netcoreapp3.0\WelcomeDotNetCore.exe
+C:\Code\Chapter1\WelcomeDotNetCore\bin\Debug\netcoreapp3.0\WelcomeDotNetCore.deps.json
+C:\Code\Chapter1\WelcomeDotNetCore\bin\Debug\netcoreapp3.0\WelcomeDotNetCore.runtimeconfig.json
+C:\Code\Chapter1\WelcomeDotNetCore\bin\Debug\netcoreapp3.0\WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Code\Chapter1\WelcomeDotNetCore\bin\Debug\netcoreapp3.0\WelcomeDotNetCore.dll
+C:\Code\Chapter1\WelcomeDotNetCore\bin\Debug\netcoreapp3.0\WelcomeDotNetCore.pdb
+C:\Code\Chapter1\WelcomeDotNetCore\obj\Debug\netcoreapp3.0\WelcomeDotNetCore.csprojAssemblyReference.cache
+C:\Code\Chapter1\WelcomeDotNetCore\obj\Debug\netcoreapp3.0\WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Code\Chapter1\WelcomeDotNetCore\obj\Debug\netcoreapp3.0\WelcomeDotNetCore.AssemblyInfo.cs
+C:\Code\Chapter1\WelcomeDotNetCore\obj\Debug\netcoreapp3.0\WelcomeDotNetCore.dll
+C:\Code\Chapter1\WelcomeDotNetCore\obj\Debug\netcoreapp3.0\WelcomeDotNetCore.pdb
